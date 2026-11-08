@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>InstalledSoftwareInventory</AssemblyName>
+    <RootNamespace>InstalledSoftwareInventory</RootNamespace>
+    <Version>1.0.0</Version>
+    <!-- Single-file, self-contained publish is driven from the command line;
+         see the README for the exact `dotnet publish` invocation. -->
+  </PropertyGroup>
+
+</Project>

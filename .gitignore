@@ -1,0 +1,9 @@
+## .NET build output
+bin/
+obj/
+*.user
+.vs/
+
+## Publish output
+publish/
+*.exe
